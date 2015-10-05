@@ -22,7 +22,7 @@ if( isset($_FILES['music']) && !empty($_FILES['music']) &&
 
 
 		} else {
-			$error = 'Erreur, le fichier n\'a pas une extension autorisée !';
+			 $error = 'Erreur, le fichier n\'a pas une extension autorisée !';
 		}
 	 }
 }
